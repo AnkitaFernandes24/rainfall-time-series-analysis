@@ -1,4 +1,4 @@
-Rainfall predition using Time Series Analysis
+# Rainfall predition using Time Series Analysis
 
 Implementation a Time Series Analysis model using the SARIMA algorithm for forecasting of monthly rainfall values.
  ACF and PACF plots as well as AIC values were used for obtaining suitable parameters for the model. 
